@@ -1,3 +1,18 @@
+git clone https://github.com/Hiroxo/TravelApp.git
+cd travelapp
+npm start
+
+//push code
+git add {filename1} {filename2}
+git commit -m "commit message"
+git push origin master
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
