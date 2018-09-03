@@ -1,13 +1,13 @@
-git clone https://github.com/Hiroxo/TravelApp.git
-cd travelapp
-npm start
+git clone https://github.com/Hiroxo/TravelApp.git  
+cd travelapp  
+npm start  
 
 //push code
-git add {filename1} {filename2}
-git commit -m "commit message"
-git push origin master
+git add {filename1} {filename2}  
+git commit -m "commit message"  
+git push origin master  
 
-
+----------------------------------
 
 
 
