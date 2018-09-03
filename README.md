@@ -1,11 +1,12 @@
 git clone https://github.com/Hiroxo/TravelApp.git  
 cd travelapp  
+git checkout {your branch name}
 npm start  
 
 //push code
 git add {filename1} {filename2}  
 git commit -m "commit message"  
-git push origin master  
+git push origin {your branch name}
 
 ----------------------------------
 
