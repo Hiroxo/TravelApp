@@ -1,13 +1,14 @@
-git clone https://github.com/Hiroxo/TravelApp.git  
-cd travelapp  
-git checkout {your branch name}
-npm start  
+git clone https://github.com/Hiroxo/TravelApp.git    
+cd travelapp    
+git checkout {your branch name}   
+npm start    
 
-//push code
-git add {filename1} {filename2}  
-git commit -m "commit message"  
-git push origin {your branch name}
+//push code   
+git add {filename1} {filename2}    
+git commit -m "commit message"   
+git push origin {your branch name}  
 
+//you will need to use fill in your git log in to push if you do not set up ssh keys.  
 ----------------------------------
 
 
